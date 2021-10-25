@@ -1,0 +1,9 @@
+name: Legislation field
+type: module
+description: Stores legislation data
+package: Field types
+version: 1.0
+core: 8.x
+
+dependencies:
+  - field
